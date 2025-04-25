@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "PrimeCheck",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "MyExceptionHoliday",
+            "request": "launch",
+            "mainClass": "MyExceptionHoliday",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "AverageC",
+            "request": "launch",
+            "mainClass": "AverageC",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "XmasTree",
+            "request": "launch",
+            "mainClass": "XmasTree",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "CarTest",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "AverageA",
+            "request": "launch",
+            "mainClass": "AverageA",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
             "name": "TheBoilingEarthEraC",
             "request": "launch",
             "mainClass": "TheBoilingEarthEraC",
