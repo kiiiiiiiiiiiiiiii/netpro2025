@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RestaurantClient",
+            "request": "launch",
+            "mainClass": "RestaurantClient",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "RestaurantServer",
+            "request": "launch",
+            "mainClass": "RestaurantServer",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "Renshu",
+            "request": "launch",
+            "mainClass": "Renshu",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "XmasTCPClient",
+            "request": "launch",
+            "mainClass": "XmasTCPClient",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "XmasServer",
+            "request": "launch",
+            "mainClass": "XmasServer",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Client",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
             "name": "PrimeCheck",
             "request": "launch",
             "mainClass": "PrimeCheck",
