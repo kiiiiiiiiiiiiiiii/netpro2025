@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TaskClientWhile",
+            "request": "launch",
+            "mainClass": "TaskClientWhile",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "TaskServerWhile",
+            "request": "launch",
+            "mainClass": "TaskServerWhile",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "TaskClientOnce",
+            "request": "launch",
+            "mainClass": "TaskClientOnce",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "TaskServerOnce",
+            "request": "launch",
+            "mainClass": "TaskServerOnce",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "TaskObject",
+            "request": "launch",
+            "mainClass": "TaskObject",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "CheckLocalAddreess",
+            "request": "launch",
+            "mainClass": "CheckLocalAddreess",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "DinnerFullCourse",
+            "request": "launch",
+            "mainClass": "DinnerFullCourse",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
             "name": "RestaurantClient",
             "request": "launch",
             "mainClass": "RestaurantClient",
