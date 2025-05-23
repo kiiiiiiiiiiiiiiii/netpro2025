@@ -1,3 +1,4 @@
+package _05;
 import java.io.Serializable;
 
 public class RestaurantMenu implements Serializable {

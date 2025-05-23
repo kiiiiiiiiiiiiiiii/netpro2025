@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeExThreadsMain",
+            "request": "launch",
+            "mainClass": "_06.PrimeExThreadsMain",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "ABCClient",
+            "request": "launch",
+            "mainClass": "_06.ABCClient",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "ABCServer",
+            "request": "launch",
+            "mainClass": "_06.ABCServer",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "CountAZTenRunnable",
+            "request": "launch",
+            "mainClass": "_06.CountAZTenRunnable",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "CountTenRunnable",
+            "request": "launch",
+            "mainClass": "_06.CountTenRunnable",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "MyThread",
+            "request": "launch",
+            "mainClass": "_06.MyThread",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "UDPBroadCastClient",
+            "request": "launch",
+            "mainClass": "_06.UDPBroadCastClient",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "UDBroadCastClient",
+            "request": "launch",
+            "mainClass": "_06.UDBroadCastClient",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "UDPBroadCastServer",
+            "request": "launch",
+            "mainClass": "_06.UDPBroadCastServer",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "MulticastClient",
+            "request": "launch",
+            "mainClass": "_06.MulticastClient",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "MulticastServer",
+            "request": "launch",
+            "mainClass": "_06.MulticastServer",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "UDPClientWhile",
+            "request": "launch",
+            "mainClass": "_06.UDPClientWhile",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "UDPServerWhile",
+            "request": "launch",
+            "mainClass": "_06.UDPServerWhile",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "UDPClient",
+            "request": "launch",
+            "mainClass": "_06.UDPClient",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
+            "name": "UDPServer",
+            "request": "launch",
+            "mainClass": "_06.UDPServer",
+            "projectName": "netpro2025_defa8f3a"
+        },
+        {
+            "type": "java",
             "name": "TaskClientWhile",
             "request": "launch",
             "mainClass": "TaskClientWhile",

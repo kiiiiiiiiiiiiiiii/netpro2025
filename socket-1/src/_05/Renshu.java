@@ -1,3 +1,4 @@
+package _05;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.time.Duration;
